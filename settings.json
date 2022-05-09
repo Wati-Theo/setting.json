@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Monokai Pro",
+	"workbench.iconTheme": "Monokai Pro Icons",
+    "editor.rulers": [80],
+    "editor.tabSize": 4,
+    "editor.insertSpaces":  false,
+	"editor.detectIndentation": false,
+	"norminettev2.norminette_bin": "/usr/bin/norminette",
+	"editor.codeActionsOnSave": null,
+	"files.autoSave": "afterDelay",
+	"editor.tokenColorCustomizations": null,
+	"bracketPairColorizer.depreciation-notice": false,
+	"window.zoomLevel": 1,
+	"terminal.integrated.tabs.enabled": false,
+}
